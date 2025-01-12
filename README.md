@@ -2,6 +2,10 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+## About StickerSmash
+
+StickerSmash is a fun and interactive app that allows you to create, share, and explore a variety of stickers. Whether you're looking to add some flair to your messages or just have fun with friends, StickerSmash has got you covered!
+
 ## Get started
 
 1. Install dependencies
@@ -48,3 +52,7 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## About the Author
+
+This project was created by Helaman Ewerton. You can find more of my work on my [GitHub profile](https://github.com/Hecris10).
