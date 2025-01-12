@@ -72,8 +72,8 @@ export default function Index() {
             //@ts-ignore
             const dataUrl = await domtoimage.toJpeg(imageRef.current, {
               quality: 0.95,
-              width,
-              height,
+              width: 320,
+              height: 440,
             });
 
             let link = document.createElement("a");
